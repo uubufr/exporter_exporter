@@ -1,5 +1,7 @@
 # Exporter Exporter - prometheus exporter proxy
 
+Uubufr improvement: this version is TLSv1.3 only (no TLSv1.2 or below)
+
 ```   "you mean apache/nginx" - bbrazil ```
 
 This provides a simple reverse proxy for prometheus exporters. It is intended as a
